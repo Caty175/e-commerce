@@ -123,6 +123,7 @@ public class Signup extends JDialog {
             Signup signup = new Signup(null);
             signup.setVisible(true);
         });
+        System.out.println("true");
     }
 }
 
